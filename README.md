@@ -33,7 +33,7 @@ The media player module supports all major media players, including full **Spoti
 
 ### Automatic installation
 
-&nbsp;&nbsp;&nbsp;**1.**  Download the latest skin here: https://github.com/MarcoPixel/SysDash/releases
+&nbsp;&nbsp;&nbsp;**1.**  Download the latest skin here: https://github.com/Alexchiuu/rainmeter-desktop_fullset-2024-/releases
 
 &nbsp;&nbsp;&nbsp;**2.**  Install the skin by **double-clicking** the .rmskin file and going through the installer.
 
