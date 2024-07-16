@@ -49,7 +49,9 @@ The media player module supports all major media players, including full **Spoti
 
 
 ### Credits
-- **Sysdash** - @MarcoPixel 
+- **Sysdash** - @MarcoPixel
+- **Mond** - @Hiphopium
+- **Nexa** - @ApexXx-SenSei
 - **Spotify Plugin** - .raptor from the Rainmeter Forums
 - **Google Play Music Desktop Player Plugin** - @tjhrulz 
 - **Fonts** - Uni Sans & Uni Neue from fontfabric.com
