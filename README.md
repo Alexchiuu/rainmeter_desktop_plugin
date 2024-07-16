@@ -1,3 +1,11 @@
+![SysDash Screenshot](https://raw.githubusercontent.com/MarcoPixel/marcopixel.github.io/master/img/sysDash.png "SysDash Screenshot")
+
+# sysDash
+[![GitHub release](https://img.shields.io/github/release/MarcoPixel/sysDash.svg?colorB=97CA00?label=version)](https://github.com/MarcoPixel/sysDash/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/MarcoPixel/sysDash/total.svg?colorB=97CA00)](https://github.com/MarcoPixel/sysDash/releases) [![GitHub stars](https://img.shields.io/github/stars/MarcoPixel/sysDash.svg?colorB=007EC6)](https://github.com/MarcoPixel/sysDash/stargazers)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MarcoPixel/sysDash/master/LICENSE)
+
+A simple and clean system monitor skin for Rainmeter.
+
+
 # rainmeter-desktop_fullset-2024
 A desktop theme using rainmeter(last update 2024-7)
 
