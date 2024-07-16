@@ -1,11 +1,6 @@
 # rainmeter-desktop_fullset-2024
 A desktop theme using rainmeter(last update 2024-7)
-# Features
-spotify plugins
-weather plugins
-media player
-clock
-CPU/RAM/GPU monitor
+
 ## Minimum Requirements:
 - Windows 7 or higher.
 - Rainmeter 4.1 (r2822 or higher).
