@@ -44,23 +44,6 @@ The media player module supports all major media players, including full **Spoti
 
 &nbsp;&nbsp;&nbsp;**4.**  You're done! Enjoy your new Rainmeter skin!
 
-### Manual installation
-
-&nbsp;&nbsp;&nbsp;**1.**  Clone this repo to **Documents\Rainmeter\Skins**.
-
-&nbsp;&nbsp;&nbsp;**2.**  Go to **.installer\plugins** and then move the 32 or 64-bit plugins (depending on your system) to &nbsp;&nbsp;&nbsp;**AppData\Roaming\Rainmeter\Plugins**.
-
-&nbsp;&nbsp;&nbsp;**3.**  Launch Rainmeter and right-click the tray icon, press Themes and open the **SysDash** theme.
-
-&nbsp;&nbsp;&nbsp;**4.**  You're done! Enjoy your new Rainmeter skin!
-
-## Issues & feature requests
-
-If you still have issues or a bug, please report them [here](https://github.com/MarcoPixel/SysDash/issues). Be sure to include details like the operating system, Rainmeter version and logs so we can help you as much as we can.
-
-You can also request new features and help them develop by joining the discussion. Just add the **request label** to your issue and we will have a look!
-
-#### [Click here to get to the open issues](https://github.com/MarcoPixel/SysDash/issues).
 
 ### Credits
 - **Rainmeter Skin** - @MarcoPixel 
