@@ -28,6 +28,7 @@ The media player module supports all major media players, including full **Spoti
 - You need at least **Rainmeter 4.1 (r2822) or higher** to get all features of this skin. You can find the newest version on https://www.rainmeter.net/
 - After installation you can access the settings by right-clicking on one of the skins then clicking on Open Settings.
 - If there are no skins loaded, you have to reinstall the skin and check if the layout is getting loaded after install.
+- **Spotify** and **CPU monitor** plugins are installed seperately in the settings menu.
 
 ## Getting started
 
