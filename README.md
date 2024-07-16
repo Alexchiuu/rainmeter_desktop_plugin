@@ -31,17 +31,21 @@ The media player module supports all major media players, including full **Spoti
 
 ## Getting started
 
-### Automatic installation
+### Installation
 
-&nbsp;&nbsp;&nbsp;**1.**  Download the latest skin here: https://github.com/Alexchiuu/rainmeter-desktop_fullset-2024-/releases
+&nbsp;&nbsp;&nbsp;**1.**  Download the latest stable version of Rainmeter here: https://www.rainmeter.net/
 
-&nbsp;&nbsp;&nbsp;**2.**  Install the skin by **double-clicking** the .rmskin file and going through the installer.
+&nbsp;&nbsp;&nbsp;**2.**  Download the latest skin here: https://github.com/Alexchiuu/rainmeter-desktop_fullset-2024-/releases
 
-&nbsp;&nbsp;&nbsp;**3.**  The settings menu will automatically open, follow the instructions to setup the variables.
+&nbsp;&nbsp;&nbsp;**3.**  Install the skin by **double-clicking** the .rmskin file and going through the installer.
 
-&nbsp;&nbsp;&nbsp;**4.**  After finishing the setup Rainmeter will load the basic layout and the settings skin where you can access additional options.
+&nbsp;&nbsp;&nbsp;**4.**  The settings menu will automatically open, follow the instructions to setup the variables.
 
-&nbsp;&nbsp;&nbsp;**5.**  You're done! Enjoy your new Rainmeter skin!
+&nbsp;&nbsp;&nbsp;**5.**  Directly drag the skin on your desktop to adjust their spots. Right click on them then you can lock their spot.
+
+&nbsp;&nbsp;&nbsp;**6.**  After finishing the setup Rainmeter will load the basic layout and the settings skin where you can access additional options.
+
+&nbsp;&nbsp;&nbsp;**7.**  You're done! Enjoy your new Rainmeter skin!
 
 
 ### Credits
