@@ -37,13 +37,15 @@ The media player module supports all major media players, including full **Spoti
 
 &nbsp;&nbsp;&nbsp;**2.**  Install the skin by **double-clicking** the .rmskin file and going through the installer.
 
-&nbsp;&nbsp;&nbsp;**3.**  After finishing the setup Rainmeter will load the basic layout and the settings skin where you can access additional options.
+&nbsp;&nbsp;&nbsp;**3.**  The settings menu will automatically open, follow the instructions to setup the variables.
 
-&nbsp;&nbsp;&nbsp;**4.**  You're done! Enjoy your new Rainmeter skin!
+&nbsp;&nbsp;&nbsp;**4.**  After finishing the setup Rainmeter will load the basic layout and the settings skin where you can access additional options.
+
+&nbsp;&nbsp;&nbsp;**5.**  You're done! Enjoy your new Rainmeter skin!
 
 
 ### Credits
-- **Rainmeter Skin** - @MarcoPixel 
+- **Sysdash** - @MarcoPixel 
 - **Spotify Plugin** - .raptor from the Rainmeter Forums
 - **Google Play Music Desktop Player Plugin** - @tjhrulz 
 - **Fonts** - Uni Sans & Uni Neue from fontfabric.com
