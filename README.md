@@ -1,9 +1,10 @@
-![SysDash Screenshot](https://github.com/Alexchiuu/rainmeter-desktop_fullset-2024-/blob/main/demo.png)
+![Screenshot](https://github.com/Alexchiuu/rainmeter-desktop_fullset-2024-/blob/main/demo.png)
 
 (The backgound isn't included in the files)
 
 # rainmeter-desktop_fullset-2024
 A simple and clean system monitor skin for Rainmeter.(last update 2024-7)
+Update the work from https://github.com/marcopixel/SysDash
 
 ## Minimum Requirements:
 - Windows 10 or higher.
