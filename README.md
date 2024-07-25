@@ -17,13 +17,14 @@ Update the work from https://github.com/marcopixel/SysDash
 - RAM usage
 - Hard drive usage
 - Network info (additional variant with just ping and up/download)
-- Media player
+- Spotify Player
 - Weather skin
 - CPU & GPU temperatures
 - Recycle bin
 - Volume slider
+- Visualizer
 
-The media player module supports all major media players, including full **Spotify** (thanks to .raptor for the Spotify plugin) and **Google Play Music Desktop Player** (thanks to @tjhrulz for his plugin) support.
+The media player supports **Only spotify** in the newest update.
 
 ## Important notes
 
@@ -31,7 +32,7 @@ The media player module supports all major media players, including full **Spoti
 - You need at least **Rainmeter 4.1 (r2822) or higher** to get all features of this skin. You can find the newest version on https://www.rainmeter.net/
 - After installation you can access the settings by right-clicking on one of the skins then clicking on Open Settings.
 - If there are no skins loaded, you have to reinstall the skin and check if the layout is getting loaded after install.
-- **Spotify** and **CPU monitor** plugins are installed seperately in the settings menu.
+- **Spotify** and **CPU monitor** plugins are installed independantly in the settings menu.
 
 ## Getting started
 
@@ -53,13 +54,9 @@ The media player module supports all major media players, including full **Spoti
 
 
 ### Credits
-- **Sysdash** - @MarcoPixel
-- **Mond** - @Hiphopium
-- **Nexa** - @ApexXx-SenSei
+- **Sysdash** - @MarcoPixel - making this beautiful rmskin.
+- **Mond** - @Hiphopium - making the cool clock mod.
+- **Nexa** - @ApexXx - making the visualizer.
 - **Spotify Plugin** - .raptor from the Rainmeter Forums
-- **Google Play Music Desktop Player Plugin** - @tjhrulz 
 - **Fonts** - Uni Sans & Uni Neue from fontfabric.com
 - **Icons** - Feather icons (https://github.com/colebemis/feather) & [Jelle-Dekkers](http://jelle-dekkers.deviantart.com/) (GPU icon)
-- **Weather Icons** - Climacons (http://adamwhitcroft.com/climacons/)
-- **Wallpaper** - .37.VII from @bo0xVn
-- Thanks to **@khanhas** for providing his graph code and @undefinist for the refresher code.
