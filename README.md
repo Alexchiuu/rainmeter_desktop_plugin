@@ -1,6 +1,5 @@
 ![Screenshot](https://github.com/Alexchiuu/rainmeter-desktop_fullset-2024-/blob/main/desktop.png)
 
-# rainmeter-desktop_fullset-2024
 A simple and clean system monitor skin for Rainmeter.(last update 2024-7)
 Update the work from https://github.com/marcopixel/SysDash
 
