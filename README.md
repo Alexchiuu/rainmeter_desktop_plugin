@@ -51,9 +51,9 @@ The media player supports **Only spotify** in the newest update.
 
 
 ### Credits
-- **Sysdash** - @MarcoPixel - making this beautiful rmskin.
-- **Mond** - @Hiphopium - making the cool clock mod.
-- **Nexa** - @ApexXx - making the visualizer.
+- **Sysdash** - @MarcoPixel - designing the background and rmskin package.
+- **Mond** - @Hiphopium - original clock mod.
+- **Nexa** - @ApexXx - sound visualizer.
 - **Spotify Plugin** - .raptor from the Rainmeter Forums
 - **Fonts** - Uni Sans & Uni Neue from fontfabric.com
 - **Icons** - Feather icons (https://github.com/colebemis/feather) & [Jelle-Dekkers](http://jelle-dekkers.deviantart.com/) (GPU icon)
