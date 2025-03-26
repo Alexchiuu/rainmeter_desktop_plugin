@@ -8,7 +8,7 @@ Update the work from https://github.com/marcopixel/SysDash
 - Rainmeter 4.1 (r2822 or higher).
 
 
-## What's included:
+## Features:
 - Clock skin (24hr/12hr)
 - CPU usage
 - RAM usage
